@@ -94,7 +94,7 @@ This project is licensed under the **MIT License**.
 ## 👤 Author
 - **Lorenco Mingla**
 - 🌐 [GitHub Profile](https://github.com/lorencomingla)
-- 📧 Email: [your-email@example.com]
+
 
 ---
 
